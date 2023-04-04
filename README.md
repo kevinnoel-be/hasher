@@ -15,7 +15,7 @@ Ported/based on Apache Shiro [default hash service](https://shiro.apache.org/sta
 ## Build
 
 ```shell
-go build -o hasher ./main.gp
+go build -o hasher ./main.go
 ```
 
 ## Usage
